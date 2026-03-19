@@ -1,12 +1,10 @@
 <component name="ProjectRunConfigurationManager">
   <configuration default="false" name="Debug Main" type="Application" factoryName="Application">
     <option name="MAIN_CLASS_NAME" value="Main" />
-    <option name="MODULE_NAME" value="simple-test" />
-    <option name="VM_PARAMETERS" value="" />
+    <option name="MODULE_NAME" value="" />
+    <option name="VM_PARAMETERS" value="-cp $PROJECT_DIR$" />
     <option name="PROGRAM_PARAMETERS" value="" />
     <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-    <method v="2">
-      <option name="Make" enabled="true" />
-    </method>
+    <method v="2" />
   </configuration>
 </component>

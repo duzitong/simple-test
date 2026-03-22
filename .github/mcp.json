@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "project-filesystem-server": {
+      "type": "stdio",
+      "command": "npx",
+      "args": ["@modelcontextprotocol/server-filesystem", "."],
+      "tools": ["*"]
+    }
+  }
+}

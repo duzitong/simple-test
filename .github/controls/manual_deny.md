@@ -1,0 +1,1 @@
+- Deny any shell command that deletes files (rm, del, rimraf, Remove-Item)

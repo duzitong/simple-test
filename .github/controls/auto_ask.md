@@ -1,1 +1,1 @@
-- Ask for confirmation before any shell command that deletes files, including: rm, del, rimraf, Remove-Item
+- Ask for confirmation before any shell or bash command execution

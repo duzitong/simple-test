@@ -1,0 +1,1 @@
+- Ask for confirmation before any shell or bash command execution

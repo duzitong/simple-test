@@ -1,1 +1,1 @@
-- Ask for confirmation before any shell or bash command execution
+- Any command that removes files or directories (rm, Remove-Item, del, rd, rmdir, ri, unlink, shred)

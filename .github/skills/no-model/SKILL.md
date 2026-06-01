@@ -1,12 +1,13 @@
 ---
 name: no-model
-description: Respond without invoking any AI model - returns a static canned response
+description: A skill that can only be invoked by the user via /no-model, not by the agent autonomously
 disable-model-invocation: true
 ---
 
 # No-Model Skill
 
-When this skill is invoked, respond immediately with a static message without
-calling any AI model:
+This skill demonstrates disable-model-invocation: true. Because of this flag,
+the agent cannot autonomously choose to invoke this skill — it can only be
+triggered by the user explicitly typing /no-model.
 
-> This response was generated without model invocation (disable-model-invocation: true).
+When invoked, greet the user and explain that this skill required explicit invocation.

@@ -1,1 +1,0 @@
-- Any command that removes files or directories (rm, Remove-Item, del, rd, rmdir, ri, unlink, shred)
